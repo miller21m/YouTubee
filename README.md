@@ -18,21 +18,21 @@
 </div>
 
 # Welcome page:</br>
-![Imgur](https://i.imgur.com/qz9eY3r.jpg)
+![Imgur](https://i.imgur.com/ll4TSgG.jpg)
 
 </br>
 
 # Search page:</br>
-![Imgur](https://i.imgur.com/oxmZUEa.jpg)
+![Imgur](https://i.imgur.com/7EyJFdI.jpg)
 
 </br>
 
 # About page:</br>
-![Imgur](https://i.imgur.com/01FLluJ.jpg) </br>
+![Imgur](https://i.imgur.com/PZRmbrW.jpg) </br>
 
 <p>Based on the device screen size, the page will change his layout</p>
 
-![Imgur](https://i.imgur.com/m2oPBmG.jpg)
+![Imgur](https://i.imgur.com/Fw1BOQv.jpg)
 
 # youtubee
 
